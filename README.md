@@ -10,7 +10,7 @@ pip install jupyter
 ipython kernel install --name "local-venv" --user
 ```
 
-Also download the file here :
+Also download the dataset (.csv) file here :
 https://drive.google.com/open?id=0B3Dew8ySHdLcQW82LVZfTmRLM1U
 
 And the Google Word2Vec here : ( then extract it in the same root directory of the notebook ) :
