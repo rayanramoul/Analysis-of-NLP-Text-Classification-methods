@@ -1,4 +1,4 @@
-# Technical Assigngment
+# Technical Assignment
 For this assignement i used a jupyter notebook because it was more interesting in terms of data analysis pipeline and visualization.
 
 ## Setup the project :
